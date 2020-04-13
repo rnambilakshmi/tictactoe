@@ -1,5 +1,12 @@
-## tictactoe
-### python code for tictactoe game  
-pre req: pygame  
-pip install pygame  
-open terminal and run: python3 tictactoe.py
+# TicTacToe
+
+![TicTacToe](Opening.png)
+
+Requirements: PyGame
+> pip install pygame  
+
+For the 3x3 game:
+> python3 TicTacToe_3D.py
+
+For the NxN game:
+> python3 TicTacToe_ND.py N
